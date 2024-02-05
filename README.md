@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @pratheeth-01
-- 👀 I’m a passionate backend developer having experience in building microserives using technologies like Java, Spring Boot, Mongodb, Kafka, Elasticsearch etc..
+- 👀 I’m a passionate backend developer having experience in building microserives in Python and Java languages.
+- I have worked on a variety of technologies like MongoDB, Kafka, Elasticsearch, PostgreSQL and others.
+- I have built microservices using Flask, Sanic, Fastapi and SpringBoot frameworks.
 - 📫 How to reach me ... https://www.linkedin.com/in/pratheeths
 
 <!---
